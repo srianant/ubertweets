@@ -1,5 +1,5 @@
 
-# Bay Area Uber Product Price Sugre Analysis
+# Bay Area Uber Product Price Surge Analysis
 
 ## Project: GalvanizeU DSCI6007 Data Engineering
 
